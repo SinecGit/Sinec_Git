@@ -1,3 +1,3 @@
 print('hello word')
 
-a = 1
+a = b = c = 1
