@@ -15,3 +15,5 @@ load_dotenv()
 print('The value of LVI is: ', os.environ.get('LVI'))
 
 print('The value of LVI is: ', os.getenv("LVI"))
+
+print('Привет')
